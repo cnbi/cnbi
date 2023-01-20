@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Camila Barragan (@cnbi)
-- 👀 I’m interested in the use of statistics in research and data science.
-- 🌱 I’m currently learning time series with Python.
-- 💞️ I’m looking to collaborate on projects modelling data, specially longitudinal data.
+-  Hi, I’m Camila Barragan (@cnbi)
+-  I’m interested in the use of statistics in research and data science.
+-  I’m looking to collaborate on projects modelling data in different fields like psychology and medicine.
 - 📫 To reach me you can write me to cn.barragan.ibanez@gmail.com
 
 <!---
